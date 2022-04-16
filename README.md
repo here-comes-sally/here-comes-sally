@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sally.
+- 👀 I’m interested in IT-security.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on IT-security projects.
